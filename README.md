@@ -7,7 +7,7 @@ NeoBykov is a public Discord bot designed to bring fun and utility to any server
 ---
 
 ## Features
-- Easy OAuth2 authentication for public use.
+
 - Fun and utility features for Discord servers .
 
 ---
